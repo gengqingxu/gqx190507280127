@@ -2,6 +2,5 @@ Git --- The stupid content tracker, Éµ¹ÏÄÚÈÝ¸ú×ÙÆ÷¡£Linus Torvalds ÊÇÕâÑù¸øÎÒÃÇ½
 Git ÊÇÓÃÓÚ LinuxÄÚºË¿ª·¢µÄ°æ±¾¿ØÖÆ¹¤¾ß¡£Óë³£ÓÃµÄ°æ±¾¿ØÖÆ¹¤¾ß CVS, Subversion µÈ²»Í¬£¬Ëü²ÉÓÃÁË·Ö²¼Ê½°æ±¾¿âµÄ·½Ê½£¬²»±Ø·þÎñÆ÷¶ËÈí¼þÖ§³Ö£¨wingeddevil×¢£ºÕâµÃ·ÖÊÇÓÃÊ²Ã´ÑùµÄ·þÎñ¶Ë£¬Ê¹ÓÃhttpÐ­Òé»òÕßgitÐ­ÒéµÈ²»Ì«Ò»Ñù¡£²¢ÇÒÔÚpushºÍpullµÄÊ±ºòºÍ·þÎñÆ÷¶Ë»¹ÊÇÓÐ½»»¥µÄ¡££©£¬Ê¹Ô´´úÂëµÄ·¢²¼ºÍ½»Á÷¼«Æä·½±ã¡£ Git µÄËÙ¶ÈºÜ¿ì£¬Õâ¶ÔÓÚÖîÈç Linux kernel ÕâÑùµÄ´óÏîÄ¿À´Ëµ×ÔÈ»ºÜÖØÒª¡£ Git ×îÎª³öÉ«µÄÊÇËüµÄºÏ²¢¸ú×Ù£¨merge tracing£©ÄÜÁ¦¡£
 Êµ¼ÊÉÏÄÚºË¿ª·¢ÍÅ¶Ó¾ö¶¨¿ªÊ¼¿ª·¢ºÍÊ¹ÓÃ Git À´×÷ÎªÄÚºË¿ª·¢µÄ°æ±¾¿ØÖÆÏµÍ³µÄÊ±ºò£¬ÊÀ½ç¿ªÔ´ÉçÈºµÄ·´¶ÔÉùÒô²»ÉÙ£¬×î´óµÄÀíÓÉÊÇ Git Ì«¼èÉ¬ÄÑ¶®£¬´Ó Git µÄÄÚ²¿¹¤×÷»úÖÆÀ´Ëµ£¬µÄÈ·ÊÇÕâÑù¡£µ«ÊÇËæ×Å¿ª·¢µÄÉîÈë£¬Git µÄÕý³£Ê¹ÓÃ¶¼ÓÉÒ»Ð©ÓÑºÃµÄ½Å±¾ÃüÁîÀ´Ö´ÐÐ£¬Ê¹ Git ±äµÃ·Ç³£ºÃÓÃ£¬¼´Ê¹ÊÇÓÃÀ´¹ÜÀíÎÒÃÇ×Ô¼ºµÄ¿ª·¢ÏîÄ¿£¬Git ¶¼ÊÇÒ»¸öÓÑºÃ£¬ÓÐÁ¦µÄ¹¤¾ß¡£ÏÖÔÚ£¬Ô½À´Ô½¶àµÄÖøÃûÏîÄ¿²ÉÓÃ Git À´¹ÜÀíÏîÄ¿¿ª·¢.
 ×÷Îª¿ªÔ´×ÔÓÉÔ­½ÌÖ¼Ö÷ÒåÏîÄ¿£¬Git Ã»ÓÐ¶Ô°æ±¾¿âµÄä¯ÀÀºÍÐÞ¸Ä×öÈÎºÎµÄÈ¨ÏÞÏÞÖÆ¡£
-Ä¿Ç°GITÒÑ¾­¿ÉÒÔÔÚwindowsÏÂÊ¹ÓÃ£¬Ö÷Òª·½·¨ÓÐ¶þ£ºmsysgitºÍCygwin¡£CygwinºÍLinuxÊ¹ÓÃ·½·¨ÀàËÆ£¬Windows°æ±¾µÄGITÌá¹©ÁËÓÑºÃµÄGUI(Í¼ÐÎ½çÃæ)£¬°²×°ºóºÜ¿ì¿ÉÒÔÉÏÊÖ£¬²»ÔÚ´Ë×ö´óÆª·ù½éÉÜ¡£
-±¾ÎÄ½«ÒÔ Git ¹Ù·½ÎÄµµ Tutorial£¬ core-tutorial ºÍ Everyday GIT ×÷ÎªÀ¶±¾·­ÒëÕûÀí£¬µ«ÊÇÔÝÊ±È¥µôÁË¶Ô Git ÄÚ²¿¹¤×÷»úÖÆµÄ²ûÊö£¬Á¦Çó¼òÃ÷¶óÒª£¬²¢¼ÓÈëÁË×÷ÕßÊ¹ÓÃ Git µÄ¹ý³ÌÖÐµÄÒ»Ð©ÐÄµÃÌå»á£¬×¢ÒâÊÂÏî£¬ÒÔ¼°¸ü¶àµÄÀý×Ó¡£½¨ÒéÄã×îºÃÍ¨¹ýÄãËùÊ¹ÓÃµÄ Unix / Linux ·¢ÐÐ°æµÄ°²×°°üÀ´°²×° Git, Äã¿ÉÒÔÔÚÏßä¯ÀÀ±¾ÎÄ £¬Ò²¿ÉÒÔÍ¨¹ýÏÂÃæµÄÃüÁîÀ´µÃµ½±¾ÎÄ×îÐÂµÄ°æ±¾¿â£¬²¢ÇÒÍ¨¹ýºóÃæµÄÑ§Ï°ÓÃ Git ×÷Îª¹¤¾ß²Î¼Óµ½±¾ÎÄµÄ´´×÷ÖÐÀ´¡£
+Ä¿Ç°GITÒÑ¾­ÎÒÇ×ÈÈßÀßÀßÀßÀßÀßÀßÀßÀßÀßÀßÀßÀßÀßÀßÀßÀutorial ºÍ Everyday GIT ×÷ÎªÀ¶±¾·­ÒëÕûÀí£¬µ«ÊÇÔÝÊ±È¥µôÁË¶Ô Git ÄÚ²¿¹¤×÷»úÖÆµÄ²ûÊö£¬Á¦Çó¼òÃ÷¶óÒª£¬²¢¼ÓÈëÁË×÷ÕßÊ¹ÓÃ Git µÄ¹ý³ÌÖÐµÄÒ»Ð©ÐÄµÃÌå»á£¬×¢ÒâÊÂÏî£¬ÒÔ¼°¸ü¶àµÄÀý×Ó¡£½¨ÒéÄã×îºÃÍ¨¹ýÄãËùÊ¹ÓÃµÄ Unix / Linux ·¢ÐÐ°æµÄ°²×°°üÀ´°²×° Git, Äã¿ÉÒÔÔÚÏßä¯ÀÀ±¾ÎÄ £¬Ò²¿ÉÒÔÍ¨¹ýÏÂÃæµÄÃüÁîÀ´µÃµ½±¾ÎÄ×îÐÂµÄ°æ±¾¿â£¬²¢ÇÒÍ¨¹ýºóÃæµÄÑ§Ï°ÓÃ Git ×÷Îª¹¤¾ß²Î¼Óµ½±¾ÎÄµÄ´´×÷ÖÐÀ´¡£
 (Snake.Zero ×¢£ºÒÔÏÂ¼ÙÉè»·¾³ÎªUnix/Linux£¬±¾´ÎÐÞÕýÖ÷ÒªÊÇ°æ±¾ÎÊÌâ£¬git-add git-init-dbµÈÃüÁî¶¼¸ÄÎªÁËÀàËÆgit addÐÎÊ½µÄ£¬ÒÔÃâÎóµ¼ÐÂÊÖ¡£)
